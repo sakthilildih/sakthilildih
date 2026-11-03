@@ -1,28 +1,21 @@
-# Hi, I'm Sakthivel 👋
+# Sakthivel R
 
-Third-year B.E. Computer Science student at Rajalakshmi Engineering College (REC), Chennai. I build AI-first products and autonomous systems.
+Founder of **[ExplifyAI](https://github.com/sakthilildih/explifyai)**: upload your notes and get a personal AI video lesson, in your own language.
+CS undergraduate at Rajalakshmi Engineering College, Chennai.
 
-I work across AI/ML, autonomous systems, and EdTech, and I'm driven to turn research into real-world, deployable solutions.
-My focus spans multi-agent AI pipelines, computer vision, and embedded/edge systems for robotics and drones.
-Always exploring new ideas and looking to collaborate on ambitious, research-driven projects.
+### What I've built
 
----
+- **[ExplifyAI](https://github.com/sakthilildih/explifyai)**: AI pipeline that turns class notes into personal, narrated video lessons with an AI teacher you can interrupt (Next.js, FastAPI, Gemini)
+- **[AML Fraud Ring Detection](https://github.com/sakthilildih/aml-fraud-ring-gnn)**: XGBoost + GraphSAGE engine that maps money-laundering rings, ROC-AUC 0.90
+- **[AURA Solar Detection](https://github.com/sakthilildih/aura-solar-detection)**: finds rooftop solar panels in satellite images, YOLO mAP@50 0.91 plus DeepLabV3+ segmentation
+- **[Tamil News Portal](https://github.com/sakthilildih/tamil-news-portal)**: Django news and magazine site, live at [paraparappucheithi.com](https://www.paraparappucheithi.com/)
+- **[Service Booking App](https://github.com/sakthilildih/service-booking-app)**: Flutter + Firebase marketplace that matches customers with vendors within 1 km
+- **[Drone Ground Station](https://github.com/sakthilildih/drone-ground-station)**: PyQt6 mission planner and telemetry app with a built-in flight simulator
 
-## 🛠️ Tech Stack
+### Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,ts,react,fastapi,html,css,java,flutter,git,github,linux,raspberrypi,arduino,cpp" />
-</p>
+Python · PyTorch · TypeScript · Next.js · FastAPI · Django · Flutter · AWS
 
----
+### Contact
 
-## 📫 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sakthivel-r-957a87318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sakthilildih" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/sakthivel-r-957a87318/)
