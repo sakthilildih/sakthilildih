@@ -14,7 +14,9 @@ CS undergraduate at Rajalakshmi Engineering College, Chennai.
 
 ### Stack
 
-Python · PyTorch · TypeScript · Next.js · FastAPI · Django · Flutter · AWS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,ts,nextjs,react,fastapi,django,flutter,dart,firebase,aws,linux,git,raspberrypi,arduino,cpp" />
+</p>
 
 ### Contact
 
